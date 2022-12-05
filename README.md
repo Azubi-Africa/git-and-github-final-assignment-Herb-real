@@ -20,8 +20,8 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
+| 1 |Caesar_Cipher_Encryption |Caesar's cipher is an encryption technique that uses shift system for encryption | https://github.com/Herb-real/Caesar_Cipher_Encryption     |
+| 2 |Stock-Production-Planning|This project is to know the production quantity you need to replenish your monthly stock| https://github.com/Herb-real/Stock-Production-Planning|
 | 3 |  -             |  -             | https://       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
