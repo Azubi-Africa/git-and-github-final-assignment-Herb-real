@@ -20,10 +20,10 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |Caesar_Cipher_Encryption |Caesar's cipher is an encryption technique that uses shift system for encryption | https://github.com/Herb-real/Caesar_Cipher_Encryption|
-| 2 |Stock-Production-Planning|This project is to know the production quantity you need to replenish your monthly stock| https://github.com/Herb-real/Stock-Production-Planning|
-| 3 |PowerBI-LinkedIn-Dashboard|This project visualizes your activities based on your LinkedIn data| https://github.com/Herb-real/PowerBI-LinkedIn-Dashboard|
-      
+| 1 |Caesar_Cipher_Encryption  |Caesar's cipher is an encryption technique that uses shift system for encryption       | https://github.com/Herb-real/Caesar_Cipher_Encryption      |
+| 2 | Stock-Production-Planning |This project is to know the production quantity you need to replenish your monthly stock   | https://github.com/Herb-real/Stock-Production-Planning   |
+| 3 | PowerBI-LinkedIn-Dashboard | This project visualizes your activities based on your LinkedIn data   | https://github.com/Herb-real/PowerBI-LinkedIn-Dashboard  |
+
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
 ## Setup
@@ -34,7 +34,7 @@ You need to have [`Python 3`](https://www.python.org/) on your system (**a Pytho
 
 - Windows *(Python should be added to the Path variable of environment)*:
         
-       on -m pip install --upgrade pip; python -m pip  python3 -m venv venv; venv\Scripts\activate; pythinstall -r requirements.txt  
+        python3 -m venv venv; venv\Scripts\activate; python -m pip install --upgrade pip; python -m pip install -r requirements.txt  
 
 - Linux & MacOs:
         
