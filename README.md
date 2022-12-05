@@ -20,7 +20,7 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |Caesar_Cipher_Encryption  |Caesar's cipher is an encryption technique that uses shift system for encryption       | https://github.com/Herb-real/Caesar_Cipher_Encryption      |
+| 1 |Caesar-Cipher-Encryption  |Caesar's cipher is an encryption technique that uses shift system for encryption       | https://github.com/Herb-real/Caesar-Cipher-Encryption      |
 | 2 | Stock-Production-Planning |This project is to know the production quantity you need to replenish your monthly stock   | https://github.com/Herb-real/Stock-Production-Planning   |
 | 3 | PowerBI-LinkedIn-Dashboard | This project visualizes your activities based on your LinkedIn data   | https://github.com/Herb-real/PowerBI-LinkedIn-Dashboard  |
 
