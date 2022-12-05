@@ -34,7 +34,7 @@ You need to have [`Python 3`](https://www.python.org/) on your system (**a Pytho
 
 - Windows *(Python should be added to the Path variable of environment)*:
         
-        python3 -m venv venv; venv\Scripts\activate; python -m pip install --upgrade pip; python -m pip install -r requirements.txt  
+       on -m pip install --upgrade pip; python -m pip  python3 -m venv venv; venv\Scripts\activate; pythinstall -r requirements.txt  
 
 - Linux & MacOs:
         
